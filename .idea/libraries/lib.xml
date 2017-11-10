@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Nouveau dossier/sa17-serie3-asghariali/lib/javax.ws.rs-api-2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nouveau dossier/sa17-serie3-asghariali/lib/jersey-client.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nouveau dossier/sa17-serie3-asghariali/lib/jersey-container-servlet.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nouveau dossier/sa17-serie3-asghariali/lib/jersey-server.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nouveau dossier/sa17-serie3-asghariali/lib/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nouveau dossier/sa17-serie3-asghariali/lib/jersey-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
